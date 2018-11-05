@@ -1,0 +1,19 @@
+{
+  "name": "vue_ui",
+  "version": "1.0.0",
+  "description": "这是一个UI组件，仅仅用于测试；",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cui2916617871/vue_ui.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cui2916617871/vue_ui/issues"
+  },
+  "homepage": "https://github.com/cui2916617871/vue_ui#readme"
+}
