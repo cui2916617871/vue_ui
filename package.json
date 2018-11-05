@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cui2916617871/vue_ui/issues"
   },
-  "homepage": "https://github.com/cui2916617871/vue_ui#readme"
+  "homepage": "https://github.com/cui2916617871/vue_ui#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
